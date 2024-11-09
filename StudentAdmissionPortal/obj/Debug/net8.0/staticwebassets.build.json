@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "evqHmy4ApZvYmjJPQpcb2OvGEPS4OxdUlC7Yn51JLmQ=",
+  "Source": "StudentAdmissionPortal",
+  "BasePath": "_content/StudentAdmissionPortal",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
