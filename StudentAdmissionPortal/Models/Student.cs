@@ -17,8 +17,8 @@ namespace StudentAdmissionPortal.Models
         public string LastName { get; set; }
 
         [Required]
-        [DataType(DataType.Date)]
-        public DateTime DateOfBirth { get; set; }
+        
+        public string DateOfBirth { get; set; }
 
         
         public int? NationalityId { get; set; }

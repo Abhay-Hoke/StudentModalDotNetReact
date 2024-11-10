@@ -10,13 +10,13 @@ namespace StudentAdmissionPortal.Models
 
         [Required]
         [StringLength(50)]
-        public string Name { get; set; }
+        public string? Name { get; set; }
 
         [Required]
-        [DataType(DataType.Date)]
-        public DateTime DateOfBirth { get; set; }
+        
+        public string DateOfBirth { get; set; }
 
-        [Required]
+        
         [StringLength(50)]
         public string Relationship { get; set; }
 
