@@ -3,56 +3,16 @@
   "WorkspaceRootPath": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Migrations\\20241107232008_updatedMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentAdmissionPortal\\Migrations\\20241107232008_updatedMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\models\\familymembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\models\\familymembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\dto\\nationalitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\dto\\nationalitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\controllers\\nationalitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\controllers\\nationalitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\controllers\\familymemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\controllers\\familymemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\studentadmissionportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\studentadmissionportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\repositories\\abstract\\ifamilymembersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\repositories\\abstract\\ifamilymembersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\dto\\studentbasicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\dto\\studentbasicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\data\\studentmodaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\data\\studentmodaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\dto\\studentbyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\dto\\studentbyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\repositories\\implementation\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,8 +23,68 @@
       "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\repositories\\implementation\\familymembersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\dto\\studentnationalitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\dto\\studentnationalitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\dto\\studentbasicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\dto\\studentbasicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\controllers\\familymemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\controllers\\familymemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\dto\\familymembernationalitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\dto\\familymembernationalitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\dto\\familymemberbasicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\dto\\familymemberbasicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Migrations\\20241110074643_initialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentAdmissionPortal\\Migrations\\20241110074643_initialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\data\\studentmodaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\data\\studentmodaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\models\\familymembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\models\\familymembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\dto\\nationalitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\dto\\nationalitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\models\\nationality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\models\\nationality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\repositories\\implementation\\nationalityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\repositories\\implementation\\nationalityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\controllers\\nationalitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\controllers\\nationalitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\studentadmissionportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\studentadmissionportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\repositories\\abstract\\ifamilymembersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\repositories\\abstract\\ifamilymembersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\repositories\\abstract\\inationalityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -81,14 +101,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Migrations\\20241106114407_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentAdmissionPortal\\Migrations\\20241106114407_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\models\\nationality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\models\\nationality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|d:\\cdac\\.net\\studentadmissionportal\\studentadmissionportal\\migrations\\20241106121606_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98A554B8-FD1F-4791-B422-5F7AE3E6F462}|StudentAdmissionPortal\\StudentAdmissionPortal.csproj|solutionrelative:studentadmissionportal\\migrations\\20241106121606_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,134 +110,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20241107232008_updatedMigration.cs",
-              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Migrations\\20241107232008_updatedMigration.cs",
-              "RelativeDocumentMoniker": "StudentAdmissionPortal\\Migrations\\20241107232008_updatedMigration.cs",
-              "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Migrations\\20241107232008_updatedMigration.cs",
-              "RelativeToolTip": "StudentAdmissionPortal\\Migrations\\20241107232008_updatedMigration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T23:20:08.436Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NationalitiesController.cs",
-              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Controllers\\NationalitiesController.cs",
-              "RelativeDocumentMoniker": "StudentAdmissionPortal\\Controllers\\NationalitiesController.cs",
-              "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Controllers\\NationalitiesController.cs",
-              "RelativeToolTip": "StudentAdmissionPortal\\Controllers\\NationalitiesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T10:37:40.961Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Mapper\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "StudentAdmissionPortal\\Mapper\\MappingProfile.cs",
-              "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Mapper\\MappingProfile.cs",
-              "RelativeToolTip": "StudentAdmissionPortal\\Mapper\\MappingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T22:24:18.801Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StudentsController.cs",
-              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Controllers\\StudentsController.cs",
-              "RelativeDocumentMoniker": "StudentAdmissionPortal\\Controllers\\StudentsController.cs",
-              "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Controllers\\StudentsController.cs",
-              "RelativeToolTip": "StudentAdmissionPortal\\Controllers\\StudentsController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAA1wDwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T10:35:13.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "StudentAdmissionPortal\\Models\\Student.cs",
-              "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Models\\Student.cs",
-              "RelativeToolTip": "StudentAdmissionPortal\\Models\\Student.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T08:49:19.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "FamilyMembersController.cs",
-              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Controllers\\FamilyMembersController.cs",
-              "RelativeDocumentMoniker": "StudentAdmissionPortal\\Controllers\\FamilyMembersController.cs",
-              "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Controllers\\FamilyMembersController.cs",
-              "RelativeToolTip": "StudentAdmissionPortal\\Controllers\\FamilyMembersController.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAYwFwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T10:38:23.203Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NationalityDto.cs",
-              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\DTO\\NationalityDto.cs",
-              "RelativeDocumentMoniker": "StudentAdmissionPortal\\DTO\\NationalityDto.cs",
-              "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\DTO\\NationalityDto.cs",
-              "RelativeToolTip": "StudentAdmissionPortal\\DTO\\NationalityDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T18:48:07.501Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FamilyMembers.cs",
-              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Models\\FamilyMembers.cs",
-              "RelativeDocumentMoniker": "StudentAdmissionPortal\\Models\\FamilyMembers.cs",
-              "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Models\\FamilyMembers.cs",
-              "RelativeToolTip": "StudentAdmissionPortal\\Models\\FamilyMembers.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T08:50:40.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "StudentAdmissionPortal.csproj",
-              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\StudentAdmissionPortal.csproj",
-              "RelativeDocumentMoniker": "StudentAdmissionPortal\\StudentAdmissionPortal.csproj",
-              "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\StudentAdmissionPortal.csproj",
-              "RelativeToolTip": "StudentAdmissionPortal\\StudentAdmissionPortal.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-07T20:15:57.087Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IFamilyMembersRepository.cs",
-              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Repositories\\Abstract\\IFamilyMembersRepository.cs",
-              "RelativeDocumentMoniker": "StudentAdmissionPortal\\Repositories\\Abstract\\IFamilyMembersRepository.cs",
-              "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Repositories\\Abstract\\IFamilyMembersRepository.cs",
-              "RelativeToolTip": "StudentAdmissionPortal\\Repositories\\Abstract\\IFamilyMembersRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T13:04:33.321Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "StudentBasicDto.cs",
               "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\DTO\\StudentBasicDto.cs",
               "RelativeDocumentMoniker": "StudentAdmissionPortal\\DTO\\StudentBasicDto.cs",
@@ -233,43 +122,177 @@
               "RelativeToolTip": "StudentAdmissionPortal\\DTO\\StudentBasicDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T18:45:56.656Z"
+              "WhenOpened": "2024-11-10T08:46:53.081Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Program.cs",
-              "RelativeDocumentMoniker": "StudentAdmissionPortal\\Program.cs",
-              "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Program.cs",
-              "RelativeToolTip": "StudentAdmissionPortal\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABEAAAA",
+              "DocumentIndex": 2,
+              "Title": "StudentByIdDto.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\DTO\\StudentByIdDto.cs",
+              "RelativeDocumentMoniker": "StudentAdmissionPortal\\DTO\\StudentByIdDto.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\DTO\\StudentByIdDto.cs",
+              "RelativeToolTip": "StudentAdmissionPortal\\DTO\\StudentByIdDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T10:29:20.643Z"
+              "WhenOpened": "2024-11-10T08:45:09.096Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "StudentRepository.cs",
-              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Repositories\\Implementation\\StudentRepository.cs",
-              "RelativeDocumentMoniker": "StudentAdmissionPortal\\Repositories\\Implementation\\StudentRepository.cs",
-              "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Repositories\\Implementation\\StudentRepository.cs",
-              "RelativeToolTip": "StudentAdmissionPortal\\Repositories\\Implementation\\StudentRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAA8AAAA",
+              "DocumentIndex": 5,
+              "Title": "StudentNationalityDto.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\DTO\\StudentNationalityDto.cs",
+              "RelativeDocumentMoniker": "StudentAdmissionPortal\\DTO\\StudentNationalityDto.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\DTO\\StudentNationalityDto.cs",
+              "RelativeToolTip": "StudentAdmissionPortal\\DTO\\StudentNationalityDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T13:11:33.565Z"
+              "WhenOpened": "2024-11-10T06:50:04.577Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentAdmissionPortal\\Models\\Student.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Models\\Student.cs",
+              "RelativeToolTip": "StudentAdmissionPortal\\Models\\Student.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAywBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:49:19.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "StudentAdmissionPortal\\Mapper\\MappingProfile.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "StudentAdmissionPortal\\Mapper\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T22:24:18.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentAdmissionPortal\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentAdmissionPortal\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAYwDUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:35:13.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "FamilyMembersRepository.cs",
               "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Repositories\\Implementation\\FamilyMembersRepository.cs",
               "RelativeDocumentMoniker": "StudentAdmissionPortal\\Repositories\\Implementation\\FamilyMembersRepository.cs",
               "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Repositories\\Implementation\\FamilyMembersRepository.cs",
               "RelativeToolTip": "StudentAdmissionPortal\\Repositories\\Implementation\\FamilyMembersRepository.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAiwDoAAAARAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADoAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T13:15:27.241Z"
+              "WhenOpened": "2024-11-06T13:15:27.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Repositories\\Implementation\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentAdmissionPortal\\Repositories\\Implementation\\StudentRepository.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Repositories\\Implementation\\StudentRepository.cs",
+              "RelativeToolTip": "StudentAdmissionPortal\\Repositories\\Implementation\\StudentRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA7wBMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:11:33.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FamilyMembersController.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Controllers\\FamilyMembersController.cs",
+              "RelativeDocumentMoniker": "StudentAdmissionPortal\\Controllers\\FamilyMembersController.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Controllers\\FamilyMembersController.cs",
+              "RelativeToolTip": "StudentAdmissionPortal\\Controllers\\FamilyMembersController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAywC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:38:23.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FamilyMembers.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Models\\FamilyMembers.cs",
+              "RelativeDocumentMoniker": "StudentAdmissionPortal\\Models\\FamilyMembers.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Models\\FamilyMembers.cs",
+              "RelativeToolTip": "StudentAdmissionPortal\\Models\\FamilyMembers.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAIwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:50:40.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FamilyMemberBasicDto.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\DTO\\FamilyMemberBasicDto.cs",
+              "RelativeDocumentMoniker": "StudentAdmissionPortal\\DTO\\FamilyMemberBasicDto.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\DTO\\FamilyMemberBasicDto.cs",
+              "RelativeToolTip": "StudentAdmissionPortal\\DTO\\FamilyMemberBasicDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:54:27.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FamilyMemberNationalityDto.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\DTO\\FamilyMemberNationalityDto.cs",
+              "RelativeDocumentMoniker": "StudentAdmissionPortal\\DTO\\FamilyMemberNationalityDto.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\DTO\\FamilyMemberNationalityDto.cs",
+              "RelativeToolTip": "StudentAdmissionPortal\\DTO\\FamilyMemberNationalityDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T06:09:50.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NationalityDto.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\DTO\\NationalityDto.cs",
+              "RelativeDocumentMoniker": "StudentAdmissionPortal\\DTO\\NationalityDto.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\DTO\\NationalityDto.cs",
+              "RelativeToolTip": "StudentAdmissionPortal\\DTO\\NationalityDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:48:07.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241110074643_initialCreate.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Migrations\\20241110074643_initialCreate.cs",
+              "RelativeDocumentMoniker": "StudentAdmissionPortal\\Migrations\\20241110074643_initialCreate.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Migrations\\20241110074643_initialCreate.cs",
+              "RelativeToolTip": "StudentAdmissionPortal\\Migrations\\20241110074643_initialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:46:43.891Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -279,25 +302,92 @@
               "RelativeDocumentMoniker": "StudentAdmissionPortal\\Data\\StudentModalDbContext.cs",
               "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Data\\StudentModalDbContext.cs",
               "RelativeToolTip": "StudentAdmissionPortal\\Data\\StudentModalDbContext.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAIBCwCEAAAAyAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T10:27:23.032Z"
+              "WhenOpened": "2024-11-06T10:27:23.032Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "Nationality.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Models\\Nationality.cs",
+              "RelativeDocumentMoniker": "StudentAdmissionPortal\\Models\\Nationality.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Models\\Nationality.cs",
+              "RelativeToolTip": "StudentAdmissionPortal\\Models\\Nationality.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:51:21.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "NationalityRepository.cs",
               "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Repositories\\Implementation\\NationalityRepository.cs",
               "RelativeDocumentMoniker": "StudentAdmissionPortal\\Repositories\\Implementation\\NationalityRepository.cs",
               "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Repositories\\Implementation\\NationalityRepository.cs",
               "RelativeToolTip": "StudentAdmissionPortal\\Repositories\\Implementation\\NationalityRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAABBAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAA1wCoAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T13:17:11.722Z"
+              "WhenOpened": "2024-11-06T13:17:11.722Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Program.cs",
+              "RelativeDocumentMoniker": "StudentAdmissionPortal\\Program.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Program.cs",
+              "RelativeToolTip": "StudentAdmissionPortal\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:29:20.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NationalitiesController.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Controllers\\NationalitiesController.cs",
+              "RelativeDocumentMoniker": "StudentAdmissionPortal\\Controllers\\NationalitiesController.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Controllers\\NationalitiesController.cs",
+              "RelativeToolTip": "StudentAdmissionPortal\\Controllers\\NationalitiesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:37:40.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentAdmissionPortal.csproj",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\StudentAdmissionPortal.csproj",
+              "RelativeDocumentMoniker": "StudentAdmissionPortal\\StudentAdmissionPortal.csproj",
+              "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\StudentAdmissionPortal.csproj",
+              "RelativeToolTip": "StudentAdmissionPortal\\StudentAdmissionPortal.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T20:15:57.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IFamilyMembersRepository.cs",
+              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Repositories\\Abstract\\IFamilyMembersRepository.cs",
+              "RelativeDocumentMoniker": "StudentAdmissionPortal\\Repositories\\Abstract\\IFamilyMembersRepository.cs",
+              "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Repositories\\Abstract\\IFamilyMembersRepository.cs",
+              "RelativeToolTip": "StudentAdmissionPortal\\Repositories\\Abstract\\IFamilyMembersRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:04:33.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "INationalityRepository.cs",
               "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Repositories\\Abstract\\INationalityRepository.cs",
               "RelativeDocumentMoniker": "StudentAdmissionPortal\\Repositories\\Abstract\\INationalityRepository.cs",
@@ -305,11 +395,12 @@
               "RelativeToolTip": "StudentAdmissionPortal\\Repositories\\Abstract\\INationalityRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T13:05:27.388Z"
+              "WhenOpened": "2024-11-06T13:05:27.388Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "IStudentRepository.cs",
               "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Repositories\\Abstract\\IStudentRepository.cs",
               "RelativeDocumentMoniker": "StudentAdmissionPortal\\Repositories\\Abstract\\IStudentRepository.cs",
@@ -317,11 +408,12 @@
               "RelativeToolTip": "StudentAdmissionPortal\\Repositories\\Abstract\\IStudentRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T13:03:48.957Z"
+              "WhenOpened": "2024-11-06T13:03:48.957Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\appsettings.json",
               "RelativeDocumentMoniker": "StudentAdmissionPortal\\appsettings.json",
@@ -329,11 +421,12 @@
               "RelativeToolTip": "StudentAdmissionPortal\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-06T10:27:48.942Z"
+              "WhenOpened": "2024-11-06T10:27:48.942Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "20241106114407_initialcreate.cs",
               "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Migrations\\20241106114407_initialcreate.cs",
               "RelativeDocumentMoniker": "StudentAdmissionPortal\\Migrations\\20241106114407_initialcreate.cs",
@@ -341,30 +434,6 @@
               "RelativeToolTip": "StudentAdmissionPortal\\Migrations\\20241106114407_initialcreate.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T11:44:07.551Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "20241106121606_initialcreate.cs",
-              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Migrations\\20241106121606_initialcreate.cs",
-              "RelativeDocumentMoniker": "StudentAdmissionPortal\\Migrations\\20241106121606_initialcreate.cs",
-              "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Migrations\\20241106121606_initialcreate.cs",
-              "RelativeToolTip": "StudentAdmissionPortal\\Migrations\\20241106121606_initialcreate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T12:16:06.913Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Nationality.cs",
-              "DocumentMoniker": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Models\\Nationality.cs",
-              "RelativeDocumentMoniker": "StudentAdmissionPortal\\Models\\Nationality.cs",
-              "ToolTip": "D:\\CDAC\\.Net\\StudentAdmissionPortal\\StudentAdmissionPortal\\Models\\Nationality.cs",
-              "RelativeToolTip": "StudentAdmissionPortal\\Models\\Nationality.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAA1wBMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T08:51:21.379Z"
             }
           ]
         }

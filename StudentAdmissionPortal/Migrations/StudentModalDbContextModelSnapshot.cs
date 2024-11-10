@@ -46,7 +46,7 @@ namespace StudentAdmissionPortal.Migrations
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
 
-                    b.Property<int?>("StudentId")
+                    b.Property<int>("StudentId")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
@@ -117,7 +117,8 @@ namespace StudentAdmissionPortal.Migrations
                     b.HasOne("StudentAdmissionPortal.Models.Student", "Student")
                         .WithMany("FamilyMembers")
                         .HasForeignKey("StudentId")
-                        .OnDelete(DeleteBehavior.Cascade);
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.Navigation("Nationality");
 

@@ -258,3 +258,4 @@ D:\CDAC\.Net\StudentAdmissionPortal\StudentAdmissionPortal\bin\Debug\net8.0\runt
 D:\CDAC\.Net\StudentAdmissionPortal\StudentAdmissionPortal\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\CDAC\.Net\StudentAdmissionPortal\StudentAdmissionPortal\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 D:\CDAC\.Net\StudentAdmissionPortal\StudentAdmissionPortal\bin\Debug\net8.0\AutoMapper.dll
+D:\CDAC\.Net\StudentAdmissionPortal\StudentAdmissionPortal\obj\Debug\net8.0\StudentAdmissionPortal.sourcelink.json

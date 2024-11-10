@@ -12,6 +12,11 @@ namespace StudentAdmissionPortal.Mapper
             // Student to Student DTOs
             CreateMap<Student, StudentBasicDto>().ReverseMap();
             CreateMap<Student, StudentNationalityDto>().ReverseMap();
+            CreateMap<Student, StudentByIdDto>()
+            .ForMember(dest => dest.FamilyMemberNames,
+                       opt => opt.MapFrom(src => src.FamilyMembers.Select(fm => fm.Name).ToList()))
+            .ReverseMap();
+            
 
             // FamilyMembers to FamilyMember DTOs
             CreateMap<FamilyMembers, FamilyMemberBasicDto>().ReverseMap();

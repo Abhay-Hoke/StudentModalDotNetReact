@@ -12,8 +12,8 @@ using StudentAdmissionPortal.Data;
 namespace StudentAdmissionPortal.Migrations
 {
     [DbContext(typeof(StudentModalDbContext))]
-    [Migration("20241106121606_initialcreate")]
-    partial class initialcreate
+    [Migration("20241110074643_initialCreate")]
+    partial class initialCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -41,7 +41,7 @@ namespace StudentAdmissionPortal.Migrations
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
 
-                    b.Property<int>("NationalityId")
+                    b.Property<int?>("NationalityId")
                         .HasColumnType("int");
 
                     b.Property<string>("Relationship")
@@ -100,7 +100,7 @@ namespace StudentAdmissionPortal.Migrations
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
 
-                    b.Property<int>("NationalityId")
+                    b.Property<int?>("NationalityId")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
@@ -115,8 +115,7 @@ namespace StudentAdmissionPortal.Migrations
                     b.HasOne("StudentAdmissionPortal.Models.Nationality", "Nationality")
                         .WithMany("FamilyMembers")
                         .HasForeignKey("NationalityId")
-                        .OnDelete(DeleteBehavior.Restrict)
-                        .IsRequired();
+                        .OnDelete(DeleteBehavior.Restrict);
 
                     b.HasOne("StudentAdmissionPortal.Models.Student", "Student")
                         .WithMany("FamilyMembers")
@@ -134,8 +133,7 @@ namespace StudentAdmissionPortal.Migrations
                     b.HasOne("StudentAdmissionPortal.Models.Nationality", "Nationality")
                         .WithMany("Students")
                         .HasForeignKey("NationalityId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .OnDelete(DeleteBehavior.Cascade);
 
                     b.Navigation("Nationality");
                 });

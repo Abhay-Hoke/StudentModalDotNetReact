@@ -45,12 +45,12 @@ namespace StudentAdmissionPortal.Controllers
 
         [HttpGet("{id}")]
 
-        public async Task<ActionResult<Student>> GetStudentById(int id)
+        public async Task<ActionResult<StudentByIdDto>> GetStudentById(int id)
         {
             var student = await _studentRepository.GetStudentById(id);
 
             if (student == null) { return NotFound($"Student with ID {id} was not found."); }
-            return Ok(student);
+            return Ok(_mapper.Map<StudentByIdDto>(student));
         }
 
 

@@ -24,7 +24,7 @@ namespace StudentAdmissionPortal.Models
         public int? NationalityId { get; set; }
 
         
-        public int? StudentId { get; set; }
+        public int StudentId { get; set; }
 
         [ForeignKey("NationalityId")]
         public Nationality Nationality { get; set; }
