@@ -58,7 +58,7 @@ namespace StudentAdmissionPortal.Controllers
         }
         
 
-        // grt  api/FamilyMembers/{id}/Nationality/{nationalityId}
+        // grt  api/FamilyMembers/{id}/Nationality
         
         [HttpGet("{id:int}/Nationality")]
         public async Task<ActionResult<FamilyMemberNationalityDto>> GetFamilyMemberNationality(int id)
@@ -85,75 +85,6 @@ namespace StudentAdmissionPortal.Controllers
 
             return Ok(_mapper.Map<FamilyMemberNationalityDto>(familyMember));
         }
-
-
-
-
-
-
-
-
-
-
-        //[HttpGet("student/{studentId}")]
-        //public async Task<ActionResult<IEnumerable<FamilyMembers>>> GetFamilyMembersByStudentId([FromRoute] int studentId)
-        //{
-        //    if (studentId <= 0)
-        //        return BadRequest("Invaid student id");
-
-        //    var familyMembers =await _familyMembersRepository.GetFamilyMembersByStudentId(studentId);
-        //    return Ok(familyMembers);
-        //}
-
-        //[HttpGet("{id}")]
-        //public async Task<ActionResult<FamilyMembers>> GetFamilyMemberById([FromRoute] int id)
-        //{
-
-        //    var familyMember = await _familyMembersRepository.GetFamilyMemberById(id);
-
-        //    if (familyMember == null)
-        //        return NotFound("Family Not found");
-        //    return Ok(familyMember);
-        //}
-
-        //[HttpPost]
-        //public async Task<ActionResult<FamilyMembers>> AddFamilyMember([FromBody] FamilyMembers familyMember)
-        //{
-        //    if (!ModelState.IsValid)
-        //        return BadRequest(ModelState);
-        //    var createdFamilyMember =await _familyMembersRepository.AddFamilyMember(familyMember);
-        //    return CreatedAtAction(nameof(GetFamilyMemberById),new {id = createdFamilyMember.Id},createdFamilyMember);
-
-        //}
-
-        //[HttpPut("{id}")]
-        //public async Task<IActionResult> UpdateFamilyMember([FromRoute] int id,[FromBody] FamilyMembers familyMember)
-        //{
-        //    if (id != familyMember.Id)
-        //        return BadRequest("family member id mismatch");
-
-        //    if(!ModelState.IsValid)
-        //        return BadRequest(ModelState);
-
-        //    var existingMember = await _familyMembersRepository.GetFamilyMemberById(id);
-        //    if (existingMember == null)
-        //        return NotFound(" check id again Member not found");
-
-        //    await _familyMembersRepository.UpdateFamilyMember(existingMember);
-        //    return NoContent();
-        //}
-
-        //[HttpDelete("{id}")]
-        //public async Task<IActionResult> DeleteFamilyMember([FromRoute] int id)
-        //{
-        //    if (id <= 0) return BadRequest("Invalid family member delete id");
-
-        //    var deleted =await _familyMembersRepository.DeleteFamilyMember(id);
-        //    if(!deleted)
-        //    {
-        //        return NotFound("Family mrmber id is invalid ,please check it");
-        //    }
-        //    return NoContent();
-        //}
+        
     }
 }

@@ -34,7 +34,7 @@ namespace StudentAdmissionPortal.Controllers
 
 
 
-        // GET: api/Students
+        // grt: api/Students
         [HttpGet]
 
         public async Task<ActionResult<IEnumerable<StudentBasicDto>>> GetAllStudents() {
@@ -54,7 +54,7 @@ namespace StudentAdmissionPortal.Controllers
         }
 
 
-        // POST: api/Students
+        // post: api/Students
         
         [HttpPost]
         public async Task<ActionResult<StudentBasicDto>> AddStudent([FromBody] StudentBasicDto studentDto)
@@ -74,7 +74,7 @@ namespace StudentAdmissionPortal.Controllers
 
 
 
-        //PUT: api/Students/{id}
+        //put: api/Students/{id}
 
 
         [HttpPut("{id}")]
@@ -103,7 +103,7 @@ namespace StudentAdmissionPortal.Controllers
 
 
 
-        //GET: api/Students/{id}/Nationality
+        //get: api/Students/{id}/Nationality
 
         [HttpGet("{id}/Nationality")]
 
@@ -117,7 +117,7 @@ namespace StudentAdmissionPortal.Controllers
         }
 
 
-        //PUT: api/Students/{id}/Nationality/{nationalityId}
+        //put: api/Students/{id}/Nationality/{nationalityId}
 
         [HttpPut("{id:int}/Nationality/{nationalityId:int}")]
 
@@ -134,7 +134,7 @@ namespace StudentAdmissionPortal.Controllers
 
 
 
-        // GET: api/Students/{id}/FamilyMembers
+        // get: api/Students/{id}/FamilyMembers
         
         [HttpGet("{id}/FamilyMembers")]
 
