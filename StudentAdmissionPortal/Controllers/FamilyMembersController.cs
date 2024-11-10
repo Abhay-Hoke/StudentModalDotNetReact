@@ -60,7 +60,7 @@ namespace StudentAdmissionPortal.Controllers
 
         // grt  api/FamilyMembers/{id}/Nationality/{nationalityId}
         
-        [HttpGet("{id:int}/Nationality/{nationalityId:int}")]
+        [HttpGet("{id:int}/Nationality")]
         public async Task<ActionResult<FamilyMemberNationalityDto>> GetFamilyMemberNationality(int id)
         {
             var familyMember = await _familyMembersRepository.GetFamilyMemberById(id);
