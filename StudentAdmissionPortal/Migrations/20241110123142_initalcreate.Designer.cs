@@ -12,8 +12,8 @@ using StudentAdmissionPortal.Data;
 namespace StudentAdmissionPortal.Migrations
 {
     [DbContext(typeof(StudentModalDbContext))]
-    [Migration("20241110074643_initialCreate")]
-    partial class initialCreate
+    [Migration("20241110123142_initalcreate")]
+    partial class initalcreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -36,7 +36,12 @@ namespace StudentAdmissionPortal.Migrations
                     b.Property<DateTime>("DateOfBirth")
                         .HasColumnType("datetime2");
 
-                    b.Property<string>("Name")
+                    b.Property<string>("FirstName")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
+                    b.Property<string>("LastName")
                         .IsRequired()
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");

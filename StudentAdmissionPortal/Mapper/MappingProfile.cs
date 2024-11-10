@@ -14,7 +14,7 @@ namespace StudentAdmissionPortal.Mapper
             CreateMap<Student, StudentNationalityDto>().ReverseMap();
             CreateMap<Student, StudentByIdDto>()
             .ForMember(dest => dest.FamilyMemberNames,
-                       opt => opt.MapFrom(src => src.FamilyMembers.Select(fm => fm.Name).ToList()))
+                       opt => opt.MapFrom(src => src.FamilyMembers.Select(fm => fm.FirstName).ToList()))
             .ReverseMap();
             
 

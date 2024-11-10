@@ -10,7 +10,11 @@ namespace StudentAdmissionPortal.Models
 
         [Required]
         [StringLength(50)]
-        public string Name { get; set; }
+        public string FirstName { get; set; }
+        
+        [Required]
+        [StringLength(50)]
+        public string LastName { get; set; }
 
         [Required]
         [DataType(DataType.Date)]

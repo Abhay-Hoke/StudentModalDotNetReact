@@ -21,6 +21,15 @@ builder.Services.AddScoped<INationalityRepository, NationalityRepository>();
 
 builder.Services.AddDbContext<StudentModalDbContext>(options =>
                         options.UseSqlServer(builder.Configuration.GetConnectionString("StudentModalDbContext")));
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(policy =>
+    {
+        policy.AllowAnyOrigin()
+        .AllowAnyMethod()
+        .AllowAnyHeader();
+    });
+});
 
 
 var app = builder.Build();
@@ -32,8 +41,10 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+
 app.UseAuthorization();
 
 app.MapControllers();
 
+app.UseCors();
 app.Run();
