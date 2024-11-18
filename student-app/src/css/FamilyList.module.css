@@ -1,0 +1,35 @@
+#family {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  #family td, #family th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  #family tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #family tr:hover {background-color: #ddd;}
+  
+  #family th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #2a86d7;
+    color: white;
+  }
+
+  .actions-wrapper {
+    display: flex;
+    gap: 10px
+  }
+
+  .actions-wrapper > div {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+  }
