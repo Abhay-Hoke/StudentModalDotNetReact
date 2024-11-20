@@ -1,0 +1,31 @@
+.header-wrapper {
+    display: flex;
+    text-align: center;
+    padding: 20px;
+    background: #2a86d7;
+    color: white;
+    justify-content: space-between;
+}
+
+.header-title {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.select-wrapper {
+    width: 200px;
+    color: black;
+}
+
+.header-right-section {
+    display: flex;
+    gap: 10px;
+}
+
+.header-right-section > button {
+    background: white;
+    border: 1px solid white;
+    border-radius: 6px;
+    color: black;
+    cursor: pointer;
+}

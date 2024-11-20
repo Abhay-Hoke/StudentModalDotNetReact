@@ -4,16 +4,14 @@ export interface Student {
     lastName: string,
     dateOfBirth: Date
     nationalityId?: number
-    [key: string]: any;
-    // key problem in slicer
 }
 
 export interface Family extends Student{
-    studentId: number
+    relationshipId: number
     relationship: string
 }
 
 export interface Nationality {
     id: number,
-    name: string
+    country: string
 }

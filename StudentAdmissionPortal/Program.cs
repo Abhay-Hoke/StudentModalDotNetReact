@@ -12,8 +12,13 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+
+//added automapper
 builder.Services.AddAutoMapper(typeof(MappingProfile));
 
+
+//
 builder.Services.AddScoped<IStudentRepository, StudentRepository>();
 builder.Services.AddScoped<IFamilyMembersRepository, FamilyMembersRepository>();
 builder.Services.AddScoped<INationalityRepository, NationalityRepository>();
@@ -21,6 +26,8 @@ builder.Services.AddScoped<INationalityRepository, NationalityRepository>();
 
 builder.Services.AddDbContext<StudentModalDbContext>(options =>
                         options.UseSqlServer(builder.Configuration.GetConnectionString("StudentModalDbContext")));
+
+//CORS policy allowing all
 builder.Services.AddCors(options =>
 {
     options.AddDefaultPolicy(policy =>

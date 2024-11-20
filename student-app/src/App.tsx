@@ -1,36 +1,34 @@
 import React, { useEffect } from 'react';
-import logo from './logo.svg';
 import './App.css';
-import { GetAllNationalities, GetAllStudents } from './apis/students';
-import { useAppDispatch, useAppSelector } from './app/hooks';
-import { Header } from './componenets/Header';
-import { StudentList } from './componenets/StudentList';
-import { StudentForm } from './componenets/StudentForm';
-import { FamilyForm } from './componenets/FamilyForm';
+import { useDispatch } from 'react-redux';
+import { Header } from './components/Header.tsx';
+import { StudentList } from './components/StudentList.tsx';
+import { StudentForm } from './components/StudentForm.tsx';
+import { useAppSelector } from './app/hooks.ts';
+import { GetAllNationalities, GetAllStudents } from './apis/students.ts';
+import { FamilyForm } from './components/FamilyForm.tsx';
 
 function App() {
-
   const {showStudentForm,showFamilyForm} = useAppSelector(x =>x.student)
-  const dispatch = useAppDispatch()
+  const dispatch = useDispatch()
 
   useEffect(() => {
     GetAllStudents(dispatch)
     GetAllNationalities(dispatch)
   }, [])
 
-
   return (
     <div className="App">
-    <Header />
-    <StudentList />
-    {
-      showStudentForm && <StudentForm />
-    }
-    {
-      showFamilyForm && <FamilyForm />
-    }
-    
-  </div>
+      <Header />
+      <StudentList />
+      {
+        showStudentForm && <StudentForm />
+      }
+      {
+        showFamilyForm && <FamilyForm />
+      }
+      
+    </div>
   );
 }
 

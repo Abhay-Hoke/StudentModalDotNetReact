@@ -58,30 +58,7 @@ namespace StudentAdmissionPortal.Controllers
 
             return CreatedAtAction(nameof(GetAllNationalities), new { id = createdNationalityDto.ID }, createdNationalityDto);
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
+       
          
     }
 }
